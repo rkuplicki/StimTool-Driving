@@ -1,0 +1,9 @@
+up up
+down down
+left left
+right right
+select space
+auto_advance True
+session_id T0
+output_dir 'C:/StimTool-Driving-TemporaryStorage/'
+redirect_output True
