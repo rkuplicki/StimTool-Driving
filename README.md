@@ -4,10 +4,10 @@ Repo for sharing the driving component of StimTool
 
 Installation Instructions:
 
-All necessary files are on Dropbox here (since GitHub has a 100MB file size limit):
-https://www.dropbox.com/sh/msymjz9tafy5g1j/AAC2SB0030dAJnkO8NBpeY1ea?dl=0
+All necessary files are on Dropbox here (since GitHub has a 100MB file size limit):  
+https://www.dropbox.com/sh/msymjz9tafy5g1j/AAC2SB0030dAJnkO8NBpeY1ea?dl=0  
 
-Install PsychoPy (via StandalonePsychoPy-1.80.03-win32.exe, used for all components)
+Install PsychoPy (via StandalonePsychoPy-1.80.03-win32.exe, used for all components)  
 Update PsychoPy to 1.80.06 using PsychoPy-1.80.06.zip (i.e. open PsychoPy and go Tools->PsychoPy Updates->Use zip file and select it
 This contains various bug fixes.
 Yes--1.80.06 is an ancient version of PsychoPy (circa 2014), and it would be nice to update to PsychoPy 3.
