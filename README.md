@@ -3,7 +3,9 @@ Repo for sharing the driving component of StimTool
 
 
 Installation Instructions:
-All necessary files are under InstallationFiles/
+
+All necessary files are on Dropbox here (since GitHub has a 100MB file size limit):
+https://www.dropbox.com/sh/msymjz9tafy5g1j/AAC2SB0030dAJnkO8NBpeY1ea?dl=0
 
 Install PsychoPy (via StandalonePsychoPy-1.80.03-win32.exe, used for all components)
 Update PsychoPy to 1.80.06 using PsychoPy-1.80.06.zip (i.e. open PsychoPy and go Tools->PsychoPy Updates->Use zip file and select it
@@ -20,6 +22,9 @@ Install ASIO4ALL
         ASIO4ALL_2_11_English.exe
         Test latency by running sound_test.py.
                 An 'X' will appear and disappear a few times--there should also be a burst of white noise that occurs simultaneously if things are working properly.  If things are not, there may be a delay of ~400ms.
+
+
+
 
 
 After installing psychopy, put StimTool-Driving under C:\
